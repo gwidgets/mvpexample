@@ -2,9 +2,8 @@
 
 To run devmode: 
 
-'mvn clean package war:war'
-
-'mvn gwt:devmode'
+`mvn clean package war:war`
+`mvn gwt:devmode`
 
 
 
